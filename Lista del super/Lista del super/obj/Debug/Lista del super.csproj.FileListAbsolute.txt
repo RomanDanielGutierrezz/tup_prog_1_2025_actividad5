@@ -1,0 +1,7 @@
+D:\Repositorios C#\Lista del super\Lista del super\obj\Debug\Lista del super.csproj.AssemblyReference.cache
+D:\Repositorios C#\Lista del super\Lista del super\obj\Debug\Lista del super.csproj.CoreCompileInputs.cache
+D:\Repositorios C#\Lista del super\Lista del super\bin\Debug\Lista del super.exe.config
+D:\Repositorios C#\Lista del super\Lista del super\bin\Debug\Lista del super.exe
+D:\Repositorios C#\Lista del super\Lista del super\bin\Debug\Lista del super.pdb
+D:\Repositorios C#\Lista del super\Lista del super\obj\Debug\Lista del super.exe
+D:\Repositorios C#\Lista del super\Lista del super\obj\Debug\Lista del super.pdb
